@@ -24,3 +24,4 @@ jobs:
           cml-publish model_results.png --md >> report.md
           
           cml-send-comment report.md
+#this is a ml model using github actions.
